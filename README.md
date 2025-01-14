@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-
-- 🔭 I’m currently working at SaiGon Intech
+- 🎓 I am a first-year Master’s student at Ho Chi Minh City University of Industry and Trade
+- 🔭 I’m currently working at AsiaDev
 - 🌱 I’m currently learning Data Science
 - 👯 I’m looking to collaborate on Python and Data Science projects
 - 🤔 I’m looking for help with advanced machine learning techniques
