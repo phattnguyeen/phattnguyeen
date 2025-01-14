@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Python and Data Science projects
 - 🤔 I’m looking for help with advanced machine learning techniques
 - 💬 Ask me about Python, Data Science, and Machine Learning
-- 📫 How to reach me: [Your Email or LinkedIn Profile]
-- 😄 Pronouns: [Your Pronouns]
+- 📫 How to reach me: [phatnguyen9712@gmail.com]
+- 😄 Pronouns: [He]
 - ⚡ Fun fact: I love solving complex data problems and turning data into actionable insights
 
 ### Experience
