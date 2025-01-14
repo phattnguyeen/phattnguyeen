@@ -25,8 +25,8 @@ I have extensive experience in Python and Data Science. I have worked on various
 
 Feel free to check out my repositories and connect with me for any collaboration or discussion related to Data Science and Python.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PhatNguyen3174&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phattnguyeen&show_icons=true&theme=radical)
 
 ### GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=PhatNguyen3174&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=phattnguyeen&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
