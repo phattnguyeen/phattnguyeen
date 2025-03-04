@@ -48,7 +48,7 @@ I have extensive experience in Python and Data Science. I have worked on various
 
 ## 🐍 My Contributions
 
-![snake gif](https://github.com/phattnguyeen/phattnguyeen/blob/output/github-ocean.svg)
+![snake gif](https://github.com/phattnguyeen/phattnguyeen/blob/output/github-snake-ocean.svg)
 
 
 
