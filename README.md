@@ -40,15 +40,15 @@ I have extensive experience in Python and Data Science. I have worked on various
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phatnguyen3174&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phattnguyeen&show_icons=true&theme=radical)
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=phatnguyen3174&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=phattnguyeen&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🐍 My Contributions
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/phatnguyen3174/phatnguyen3174/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Snake](https://raw.githubusercontent.com/phattnguyeen/phattnguyeen/output/github-contribution-grid-snake.svg)
 
 ---
 
