@@ -48,7 +48,7 @@ I have extensive experience in Python and Data Science. I have worked on various
 
 ## 🐍 My Contributions
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/phattnguyeen/phattnguyeen/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Snake](https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg)
 
 ---
 
