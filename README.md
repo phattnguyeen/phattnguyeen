@@ -50,6 +50,10 @@ I have extensive experience in Python and Data Science. I have worked on various
 
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/username=phattnguyeen/phattnguyeen/output/github-contribution-grid-snake.svg)
 
+### GitHub Contribution Snake
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/phattnguyeen/phattnguyeen/output/github-contribution-grid-snake.svg)
+
 ---
 
 Feel free to check out my repositories and connect with me for any collaboration or discussion related to Data Science and Python! 🚀
