@@ -3,7 +3,6 @@
 ## About Me
 
 - 🎓 I am a first-year Master’s student at Ho Chi Minh City University of Industry and Trade  
-- 🔭 Currently working at AsiaDev  
 - 🌱 Learning Data Science  
 - 👯 Looking to collaborate on Python and Data Science projects  
 - 🤔 Seeking help with advanced machine learning techniques  
