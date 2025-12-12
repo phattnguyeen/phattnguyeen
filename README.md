@@ -37,15 +37,6 @@ I have extensive experience in Python and Data Science. I have worked on various
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phattnguyeen&show_icons=true&theme=radical)
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=phattnguyeen&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## 🐍 My Contributions
 
 ![snake gif](https://github.com/phattnguyeen/phattnguyeen/blob/output/github-snake.svg)
